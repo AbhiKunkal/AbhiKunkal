@@ -12,6 +12,7 @@
 <h3 align="center">Full Stack Developer | ML Enthusiast | Competitive Programmer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhikunkal&label=Profile%20views&color=0e75b6&style=flat" alt="abhikunkal" /> </p>
 
 ### 🔥 Achievements:
 - 👨‍💻 **Semi Finalist**, Flipkart GRiD 7.0 (Software Development Track) — _Top 0.2% out of 1,60,989 participants_
@@ -69,7 +70,8 @@
 
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=abhishekkunkal3)](https://codeforces.com/profile/abhishekkunkal3)
 
-[![](https://cp-logo.vercel.app/codechef/abhishek_17802)](https://www.codechef.com/users/abhishek_17802)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhishek_17802)
+
 
 ---
 

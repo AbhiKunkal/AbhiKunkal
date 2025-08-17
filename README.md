@@ -51,16 +51,17 @@
 ### 📈 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiKunkal&show_icons=true&theme=onedark" alt="Abhishek's GitHub Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiKunkal&show_icons=true&theme=onedark&count_private=true&cache_seconds=3600&v=1" alt="Abhishek's GitHub Stats" width="70%">
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AbhiKunkal&theme=onedark" alt="GitHub Streak" width="70%">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AbhiKunkal&theme=onedark&date_format=M%20j%5B,%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&v=1" alt="GitHub Streak" width="70%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiKunkal&theme=github" width="70%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiKunkal&theme=github&v=1" width="70%">
 </div>
+
 
 ---
 
